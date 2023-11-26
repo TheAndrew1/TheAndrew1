@@ -25,6 +25,7 @@ Estudante de Engenharia de Software [4/8]
 
 ## Frameworks
 ![VUEJS](https://img.shields.io/badge/VueJs-000?style=for-the-badge&logo=vuedotjs)
+![ANGULAR](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=vuedotjs)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 ![BOOTSTRAP](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap)
 
