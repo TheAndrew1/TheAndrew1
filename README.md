@@ -14,12 +14,13 @@ Estudante de Engenharia de Software [4/8]
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![FIGMA](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![MAVEN](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)
 
 ## Linguagens de programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java8)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
@@ -28,6 +29,9 @@ Estudante de Engenharia de Software [4/8]
 ![ANGULAR](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 ![BOOTSTRAP](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap)
+
+## Banco de dados
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## Repositórios
 
