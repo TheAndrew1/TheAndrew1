@@ -1,7 +1,7 @@
 # André Mai Velasco
 ## Sobre mim
 
-Estudante de Engenharia de Software [6/8]
+Estudante de Engenharia de Software [7/8]
 
 Desenvolvedor FullStack no Itaipu Parquetec
 #
